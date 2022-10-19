@@ -7,8 +7,8 @@ My name is **Maciej Sroka** and I love building fast, accessible, responsive UIs
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,redux,styledcomponents,sass,webpack,vite,next,firebase,jest,git&perline=7)](https://skillicons.dev)
 
 ## Featured projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&repo=social-blogging-platform&theme=apprentice)](https://github.com/husky93/social-blogging-platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&repo=portfolio&theme=apprentice)](https://github.com/husky93/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=social-blogging-platform)](https://github.com/husky93/social-blogging-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=portfolio)](https://github.com/husky93/portfolio)
 
 ### More projects in the pinned section below 👇
 <!---
