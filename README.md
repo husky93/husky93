@@ -1,7 +1,7 @@
 # 👋 Hello!
 My name is **Maciej Sroka** and I love building fast, accessible, responsive UIs with modern **JavaScript** based tools. With good eye to detail I can make any design a functioning reality.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husky93&theme=apprentice&layout=compact)](https://github.com/husky93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husky93&theme=apprentice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies i work with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,redux,styledcomponents,sass,webpack,vite,next,firebase,jest,git&perline=7)](https://skillicons.dev)
