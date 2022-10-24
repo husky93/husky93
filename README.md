@@ -12,8 +12,8 @@ My name is **Maciej Sroka** and I love building fast, accessible, responsive UIs
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=storefront)](https://github.com/husky93/storefront)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=battleship-game)](https://github.com/husky93/battleship-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=todo-list)](https://github.com/husky93/todo-list)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=weather-app)](https://github.com/husky93/weather-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=restaurant-page)](https://github.com/husky93/restaurant-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=husky93&theme=apprentice&repo=weather-app)](https://github.com/husky93/weather-app)
 
 
 <!---
