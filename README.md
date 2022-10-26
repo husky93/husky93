@@ -1,5 +1,5 @@
 # 👋 Hello!
-My name is **Maciej Sroka** and I enjoy creating things that live on the internet. I live and breathe **JavaScript** and any modern tool associated with it. Currently looking for a job opportunity, you can contact me at: **sroka.maciej93@gmail.com**.
+My name is **Maciek** and I enjoy creating things that live on the internet. I live and breathe **JavaScript** and any modern tool associated with it. Currently looking for a job opportunity, you can contact me at: **sroka.maciej93@gmail.com**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husky93&theme=apprentice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
