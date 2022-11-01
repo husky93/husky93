@@ -3,7 +3,9 @@
 
 My name is **Maciek** and I enjoy creating things that live on the internet. I live and breathe **JavaScript** and any modern tool associated with it. 
 
-🤝 Currently looking for a job opportunity.
+🌱 Currently learning **Node.js**
+
+🤝 Actively looking for a job opportunity.
 
 📫 You can contact me at: **sroka.maciej93@gmail.com**.
 
