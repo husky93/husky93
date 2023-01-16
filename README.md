@@ -3,7 +3,7 @@
 
 My name is **Maciek** and I enjoy creating things that live on the internet. I live and breathe **JavaScript** and any modern tool associated with it. 
 
-🌱 Currently learning **Angular, Node.js**
+🌱 Currently learning **Vue.js, Node.js**
 
 🤝 Actively looking for a job opportunity.
 
