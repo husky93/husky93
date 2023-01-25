@@ -5,11 +5,6 @@ My name is **Maciek** and I enjoy creating things that live on the internet. I l
 
 🌱 Currently learning **Vue.js, Node.js**
 
-🤝 Actively looking for a job opportunity.
-
-📫 You can contact me at: **sroka.maciej93@gmail.com**.
-
-
 ## Technologies i work with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,redux,styledcomponents,sass,mongodb,webpack,vite,firebase,jest,git&perline=7)](https://skillicons.dev)
 
