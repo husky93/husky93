@@ -3,8 +3,6 @@
 
 My name is **Maciek** and I enjoy creating things that live on the internet. I live and breathe **JavaScript** and any modern tool associated with it. 
 
-🌱 Currently learning **Vue.js, Node.js**
-
 ## Technologies i work with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,redux,styledcomponents,sass,mongodb,webpack,vite,firebase,jest,git&perline=7)](https://skillicons.dev)
 
